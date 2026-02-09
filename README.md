@@ -1,4 +1,4 @@
-
+<img width="732" height="522" alt="image" src="https://github.com/user-attachments/assets/c16cae7d-b25a-49e2-967c-d61d305eb764" />
 - **Name:** nithish kumar s
 - **Register Number:**212224230190
 
@@ -269,34 +269,40 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-![snk](https://github.com/user-attachments/assets/f7f16d63-ce90-4c98-9d8d-5b19a3639b80)
+<img width="742" height="524" alt="image" src="https://github.com/user-attachments/assets/9e3d2d0b-58bc-4a01-bbbb-b3b99074df99" />
 
 
 # Draw a line from top-left to bottom-right
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 3, 2026, 01_58_41 PM" src="https://github.com/user-attachments/assets/690d723f-7828-4d8e-9b7f-e2af5e2494c1" />
+<img width="650" height="505" alt="image" src="https://github.com/user-attachments/assets/de160037-0e44-485f-a69a-228daad765d4" />
 
 # HSV Image
-<img width="1536" height="1024" alt="ChatGPT Image Feb 3, 2026, 02_02_48 PM" src="https://github.com/user-attachments/assets/a130ce8c-4c8d-4d6f-81e0-a128f05a1209" />
+<img width="750" height="527" alt="image" src="https://github.com/user-attachments/assets/8b58e179-61dd-4590-a97f-3e80b8206b64" />
+
 
 # Grayscale Image
-<img width="1536" height="1024" alt="ChatGPT I<img width="1536" height="1024" alt="dca639e3-a0ba-4623-9ebe-14d9bc9d130f" src="https://github.com/user-attachments/assets/f029d895-ea64-4fde-9d89-a8491b2f2984" />
+
+<img width="666" height="516" alt="image" src="https://github.com/user-attachments/assets/2b4faedf-757b-453e-a50f-e93ae5264cae" />
+
 
 
 
 
 # YCrCb Image
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 3, 2026, 02_02_58 PM" src="https://github.com/user-attachments/assets/6f38cca7-807d-457a-b90a-fd9e3151e884" />
+<img width="706" height="506" alt="image" src="https://github.com/user-attachments/assets/4ff5ce19-3087-42f4-89ac-8eb20447b37d" />
+
 
 
 # Horizontal flip
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 3, 2026, 02_02_41 PM" src="https://github.com/user-attachments/assets/98517193-879a-4faa-9589-3317b18b60b5" />
+<img width="650" height="489" alt="image" src="https://github.com/user-attachments/assets/a76cc29d-13d4-4a66-a87d-fade8bf8bc99" />
+
 
 
 # Vertical flip
-<img width="1184" height="864" alt="Gemini_Generated_Image_wzcaxrwzcaxrwzca" src="https://github.com/user-attachments/assets/ad4deb89-5571-4f78-a139-1d4b219ef2fe" />
+<img width="750" height="508" alt="image" src="https://github.com/user-attachments/assets/4fd53097-035e-4be6-bc4f-2f489ec7a831" />
+
 
 
 ## Result:
