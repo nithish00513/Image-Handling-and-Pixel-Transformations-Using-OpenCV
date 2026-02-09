@@ -1,4 +1,4 @@
-<img width="732" height="522" alt="image" src="https://github.com/user-attachments/assets/c16cae7d-b25a-49e2-967c-d61d305eb764" />
+
 - **Name:** nithish kumar s
 - **Register Number:**212224230190
 
