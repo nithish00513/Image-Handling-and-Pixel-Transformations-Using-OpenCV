@@ -1,6 +1,5 @@
 
-- **Name:** nithish kumar s
-- **Register Number:**212224230190
+
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
