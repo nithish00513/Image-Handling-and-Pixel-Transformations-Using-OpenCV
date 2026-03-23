@@ -33,8 +33,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** RITHIK V 
-- **Register Number:**  212223230171
+- # name nithish kumar s
+# 212224230190
 
 ```PYTHON
 import cv2
